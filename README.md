@@ -1,0 +1,2 @@
+# test830inter
+里面两个文件，目录里面包含一个code目录和一个markdown类型的文件；code目录包含src和sim，源代码文件在其中；仿真截图和说明在markdown类型的文件中。
